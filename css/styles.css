@@ -142,6 +142,10 @@ hr {
   width: 60%;
 }
 
+.profile_pic {
+  width: 30%;
+}
+
 .skills {
   padding-top: 50px;
 }
